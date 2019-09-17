@@ -1,7 +1,6 @@
 ---
 title: "Starting"
 date: 2018-08-04T13:07:16+10:00
-draft: true
 ---
 
 Wellcome to my new blog!
